@@ -1,8 +1,15 @@
 # lib - libraries for my projects
 
-## Logger
+## packages
 
-### Installation
+1. config
 
-Use go get
-`go get github.com/alex-bodnar/lib/log`
+    ```bash
+        go get github.com/alex-bodnar/lib/config
+    ```
+
+1. logger
+
+    ```bash
+        go get github.com/alex-bodnar/lib/log
+    ```

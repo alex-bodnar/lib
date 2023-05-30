@@ -13,3 +13,9 @@
     ```bash
         go get github.com/alex-bodnar/lib/log
     ```
+
+1. errs
+
+    ```bash
+        go get github.com/alex-bodnar/lib/errs
+    ```
